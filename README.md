@@ -1,2 +1,2 @@
-# prj4
+# prj4-chapter-3
 Brand Development &amp; Site
